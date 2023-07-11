@@ -1,14 +1,1 @@
-{
-  "cssImports": {
-    "/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/layout.tsx": [
-      "/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Nunito\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"font\"}",
-      "/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/globals.css"
-    ]
-  },
-  "cssModules": {
-    "/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/page": [
-      "/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/globals.css",
-      "/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Nunito\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"font\"}"
-    ]
-  }
-}
+{"cssImports":{"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/layout.tsx":["/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/globals.css","/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Nunito\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"font\"}"]},"cssModules":{"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/page":["/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/globals.css","/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Nunito\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"font\"}"]}}

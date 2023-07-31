@@ -4,16 +4,16 @@ import { ButtonComponent } from "../../Misc";
 import { IoMdClose } from "react-icons/io";
 
 interface ModalProps {
-  isOpen: boolean;
+  isOpen?: boolean;
   onClose: () => void;
   onSubmit: () => void;
-  title: string;
-  body: React.ReactElement;
-  footer: React.ReactElement;
+  title?: string;
+  body?: React.ReactElement;
+  footer?: React.ReactElement;
   actionLabel: string;
-  isDisabled: boolean;
-  secondaryActionLabel: string;
-  secondaryAction: () => void;
+  isDisabled?: boolean;
+  secondaryActionLabel?: string;
+  secondaryAction?: () => void;
 }
 
 const Modal: React.FC<ModalProps> = ({
@@ -58,7 +58,7 @@ const Modal: React.FC<ModalProps> = ({
     secondaryAction();
   }, [isDisabled, secondaryAction]);
 
-  if (!isOpen) {
+  if (!showModal) {
     return null;
   }
 
@@ -86,7 +86,7 @@ const Modal: React.FC<ModalProps> = ({
             <div className="relative p-6 flex-auto">{body}</div>
             {/*footer*/}
             <div className="flex flex-col gap-2 p-6">
-              <div className="flex flex-row items-center gap-4 w-full"></div>
+              <div className="flex flex-row items-center gap-4 w-full" />
               {secondaryAction && secondaryActionLabel && (
                 <ButtonComponent
                   outline={true}
@@ -97,7 +97,6 @@ const Modal: React.FC<ModalProps> = ({
                 />
               )}
               <ButtonComponent
-
                 isDisabled={isDisabled}
                 text={actionLabel}
                 onClick={handleOnSubmit}

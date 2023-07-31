@@ -1,1 +1,1467 @@
-{"ssrModuleMapping":{"1010":{"*":{"id":"7844","name":"*","chunks":[],"async":false},"":{"id":"7844","name":"","chunks":[],"async":false},"default":{"id":"7844","name":"default","chunks":[],"async":false}},"1462":{"*":{"id":"8234","name":"*","chunks":[],"async":false},"":{"id":"8234","name":"","chunks":[],"async":false},"default":{"id":"8234","name":"default","chunks":[],"async":false}},"1785":{"*":{"id":"606","name":"*","chunks":[],"async":false},"":{"id":"606","name":"","chunks":[],"async":false},"default":{"id":"606","name":"default","chunks":[],"async":false},"RedirectErrorBoundary":{"id":"606","name":"RedirectErrorBoundary","chunks":[],"async":false},"RedirectBoundary":{"id":"606","name":"RedirectBoundary","chunks":[],"async":false}},"3388":{"*":{"id":"5432","name":"*","chunks":[],"async":false},"":{"id":"5432","name":"","chunks":[],"async":false},"default":{"id":"5432","name":"default","chunks":[],"async":false}},"4143":{"*":{"id":"3100","name":"*","chunks":[],"async":false},"":{"id":"3100","name":"","chunks":[],"async":false},"default":{"id":"3100","name":"default","chunks":[],"async":false}},"4463":{"*":{"id":"6249","name":"*","chunks":[],"async":false},"":{"id":"6249","name":"","chunks":[],"async":false},"default":{"id":"6249","name":"default","chunks":[],"async":false}},"6828":{"*":{"id":"969","name":"*","chunks":[],"async":false},"":{"id":"969","name":"","chunks":[],"async":false},"default":{"id":"969","name":"default","chunks":[],"async":false}},"7480":{"*":{"id":"687","name":"*","chunks":[],"async":false},"":{"id":"687","name":"","chunks":[],"async":false},"default":{"id":"687","name":"default","chunks":[],"async":false}},"8707":{"*":{"id":"7649","name":"*","chunks":[],"async":false},"":{"id":"7649","name":"","chunks":[],"async":false},"default":{"id":"7649","name":"default","chunks":[],"async":false}},"8827":{"*":{"id":"125","name":"*","chunks":[],"async":false},"":{"id":"125","name":"","chunks":[],"async":false},"default":{"id":"125","name":"default","chunks":[],"async":false},"getServerActionDispatcher":{"id":"125","name":"getServerActionDispatcher","chunks":[],"async":false},"urlToUrlWithoutFlightMarker":{"id":"125","name":"urlToUrlWithoutFlightMarker","chunks":[],"async":false}},"9126":{"*":{"id":"1522","name":"*","chunks":[],"async":false},"":{"id":"1522","name":"","chunks":[],"async":false},"default":{"id":"1522","name":"default","chunks":[],"async":false},"ErrorBoundaryHandler":{"id":"1522","name":"ErrorBoundaryHandler","chunks":[],"async":false},"ErrorBoundary":{"id":"1522","name":"ErrorBoundary","chunks":[],"async":false}},"9209":{"*":{"id":"9040","name":"*","chunks":[],"async":false},"":{"id":"9040","name":"","chunks":[],"async":false},"default":{"id":"9040","name":"default","chunks":[],"async":false},"defaultHead":{"id":"9040","name":"defaultHead","chunks":[],"async":false}}},"edgeSSRModuleMapping":{},"clientModules":{"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/app-router.js":{"id":"8827","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/app-router.js":{"id":"8827","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/app-router.js#":{"id":"8827","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/app-router.js#":{"id":"8827","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/app-router.js#default":{"id":"8827","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/app-router.js#default":{"id":"8827","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher":{"id":"8827","name":"getServerActionDispatcher","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher":{"id":"8827","name":"getServerActionDispatcher","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker":{"id":"8827","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker":{"id":"8827","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/error-boundary.js":{"id":"9126","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/error-boundary.js":{"id":"9126","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/error-boundary.js#":{"id":"9126","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/error-boundary.js#":{"id":"9126","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/error-boundary.js#default":{"id":"9126","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/error-boundary.js#default":{"id":"9126","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler":{"id":"9126","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler":{"id":"9126","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary":{"id":"9126","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary":{"id":"9126","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/layout-router.js":{"id":"4463","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/layout-router.js":{"id":"4463","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/layout-router.js#":{"id":"4463","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/layout-router.js#":{"id":"4463","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/layout-router.js#default":{"id":"4463","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/layout-router.js#default":{"id":"4463","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/redirect-boundary.js":{"id":"1785","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/redirect-boundary.js":{"id":"1785","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/redirect-boundary.js#":{"id":"1785","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/redirect-boundary.js#":{"id":"1785","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/redirect-boundary.js#default":{"id":"1785","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/redirect-boundary.js#default":{"id":"1785","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary":{"id":"1785","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary":{"id":"1785","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary":{"id":"1785","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary":{"id":"1785","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/render-from-template-context.js":{"id":"1010","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/render-from-template-context.js":{"id":"1010","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/render-from-template-context.js#":{"id":"1010","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/render-from-template-context.js#":{"id":"1010","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/render-from-template-context.js#default":{"id":"1010","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/render-from-template-context.js#default":{"id":"1010","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js":{"id":"6828","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js":{"id":"6828","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#":{"id":"6828","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#":{"id":"6828","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default":{"id":"6828","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default":{"id":"6828","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js":{"id":"4143","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js":{"id":"4143","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#":{"id":"4143","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#":{"id":"4143","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default":{"id":"4143","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default":{"id":"4143","name":"default","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/app-router-context.js":{"id":"6406","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/app-router-context.js":{"id":"6406","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/app-router-context.js#":{"id":"6406","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/app-router-context.js#":{"id":"6406","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates":{"id":"6406","name":"CacheStates","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates":{"id":"6406","name":"CacheStates","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext":{"id":"6406","name":"AppRouterContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext":{"id":"6406","name":"AppRouterContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext":{"id":"6406","name":"LayoutRouterContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext":{"id":"6406","name":"LayoutRouterContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext":{"id":"6406","name":"GlobalLayoutRouterContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext":{"id":"6406","name":"GlobalLayoutRouterContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext":{"id":"6406","name":"TemplateContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext":{"id":"6406","name":"TemplateContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/hooks-client-context.js":{"id":"1416","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/hooks-client-context.js":{"id":"1416","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/hooks-client-context.js#":{"id":"1416","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#":{"id":"1416","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext":{"id":"1416","name":"SearchParamsContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext":{"id":"1416","name":"SearchParamsContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext":{"id":"1416","name":"PathnameContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext":{"id":"1416","name":"PathnameContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/server-inserted-html.js":{"id":"3063","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/server-inserted-html.js":{"id":"3063","name":"*","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/server-inserted-html.js#":{"id":"3063","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#":{"id":"3063","name":"","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext":{"id":"3063","name":"ServerInsertedHTMLContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext":{"id":"3063","name":"ServerInsertedHTMLContext","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML":{"id":"3063","name":"useServerInsertedHTML","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML":{"id":"3063","name":"useServerInsertedHTML","chunks":["272:static/chunks/webpack-dd9d39aa2e725f42.js","253:static/chunks/bce60fc1-bc17c4aec9327e10.js","488:static/chunks/488-5e03d733543bd67e.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/image.js":{"id":"8707","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/image.js":{"id":"8707","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/image.js#":{"id":"8707","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/image.js#":{"id":"8707","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/client/image.js#default":{"id":"8707","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/client/image.js#default":{"id":"8707","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/head.js":{"id":"9209","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/head.js":{"id":"9209","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/head.js#":{"id":"9209","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/head.js#":{"id":"9209","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/head.js#default":{"id":"9209","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/head.js#default":{"id":"9209","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/shared/lib/head.js#defaultHead":{"id":"9209","name":"defaultHead","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/dist/esm/shared/lib/head.js#defaultHead":{"id":"9209","name":"defaultHead","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Nunito\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"font\"}#":{"id":"8473","name":"default","chunks":["static/css/319c09f98b946fae.css"]},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/globals.css#":{"id":"null","name":"default","chunks":["static/css/319c09f98b946fae.css"]},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Container/Container.tsx":{"id":"3388","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Container/Container.tsx#":{"id":"3388","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Container/Container.tsx#default":{"id":"3388","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Logo/Logo.tsx":{"id":"3388","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Logo/Logo.tsx#":{"id":"3388","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Logo/Logo.tsx#default":{"id":"3388","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Search/Search.tsx":{"id":"3388","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Search/Search.tsx#":{"id":"3388","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Search/Search.tsx#default":{"id":"3388","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Usermenu/Usermenu.tsx":{"id":"3388","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Usermenu/Usermenu.tsx#":{"id":"3388","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Usermenu/Usermenu.tsx#default":{"id":"3388","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Avatar/Avatar.tsx":{"id":"3388","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Avatar/Avatar.tsx#":{"id":"3388","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Avatar/Avatar.tsx#default":{"id":"3388","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/ButtonComponent/ButtonComponent.tsx":{"id":"3388","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/ButtonComponent/ButtonComponent.tsx#":{"id":"3388","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/ButtonComponent/ButtonComponent.tsx#default":{"id":"3388","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Menuitem/Menuitem.tsx":{"id":"3388","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Menuitem/Menuitem.tsx#":{"id":"3388","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Misc/Menuitem/Menuitem.tsx#default":{"id":"3388","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Modals/Modal/Modal.tsx":{"id":"1462","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Modals/Modal/Modal.tsx#":{"id":"1462","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Modals/Modal/Modal.tsx#default":{"id":"1462","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Navbar/navbar.tsx":{"id":"7480","name":"*","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Navbar/navbar.tsx#":{"id":"7480","name":"","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false},"/workspaces/cloneofwebsite/airbnb-fullstack-clone/app/components/Navbar/navbar.tsx#default":{"id":"7480","name":"default","chunks":["852:static/chunks/b6364a60-93a6f0d1a145bc9b.js","372:static/chunks/7c806026-7c084f2bd2bc2a50.js","173:static/chunks/539bbe41-d7fab3e54b1a7edd.js","509:static/chunks/509-7d9024ae9505fa72.js","185:static/chunks/app/layout-49fc5f4324e10782.js"],"async":false}}}
+{
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      },
+      "getServerActionDispatcher": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "getServerActionDispatcher",
+        "chunks": [],
+        "async": false
+      },
+      "urlToUrlWithoutFlightMarker": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "urlToUrlWithoutFlightMarker",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      },
+      "ErrorBoundaryHandler": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundaryHandler",
+        "chunks": [],
+        "async": false
+      },
+      "ErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundary",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      },
+      "RedirectErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectErrorBoundary",
+        "chunks": [],
+        "async": false
+      },
+      "RedirectBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectBoundary",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/Misc/Avatar/Avatar.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Misc/Avatar/Avatar.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Misc/Avatar/Avatar.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Misc/Avatar/Avatar.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/Misc/ButtonComponent/ButtonComponent.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Misc/ButtonComponent/ButtonComponent.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Misc/ButtonComponent/ButtonComponent.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Misc/ButtonComponent/ButtonComponent.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/Misc/Container/Container.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Misc/Container/Container.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Misc/Container/Container.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Misc/Container/Container.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/Misc/Logo/Logo.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Misc/Logo/Logo.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Misc/Logo/Logo.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Misc/Logo/Logo.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/Misc/Menuitem/Menuitem.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Misc/Menuitem/Menuitem.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Misc/Menuitem/Menuitem.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Misc/Menuitem/Menuitem.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/Misc/Search/Search.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Misc/Search/Search.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Misc/Search/Search.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Misc/Search/Search.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/Misc/Usermenu/Usermenu.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Misc/Usermenu/Usermenu.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Misc/Usermenu/Usermenu.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Misc/Usermenu/Usermenu.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/Modals/Modal/Modal.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Modals/Modal/Modal.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Modals/Modal/Modal.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Modals/Modal/Modal.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/Modals/RegisterModal/RegisterModal.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Modals/RegisterModal/RegisterModal.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Modals/RegisterModal/RegisterModal.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Modals/RegisterModal/RegisterModal.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/Navbar/navbar.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Navbar/navbar.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Navbar/navbar.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Navbar/navbar.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      },
+      "defaultHead": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "defaultHead",
+        "chunks": [],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "clientModules": {
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/app-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/app-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/app-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/app-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "urlToUrlWithoutFlightMarker",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "urlToUrlWithoutFlightMarker",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/error-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/error-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/redirect-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/redirect-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/app-router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "AppRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "AppRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "LayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "LayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "GlobalLayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "GlobalLayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "TemplateContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "TemplateContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "PathnameContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "PathnameContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "useServerInsertedHTML",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "useServerInsertedHTML",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Nunito\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"font\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Avatar/Avatar.tsx": {
+      "id": "(app-client)/./app/components/Misc/Avatar/Avatar.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Avatar/Avatar.tsx#": {
+      "id": "(app-client)/./app/components/Misc/Avatar/Avatar.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Avatar/Avatar.tsx#default": {
+      "id": "(app-client)/./app/components/Misc/Avatar/Avatar.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/ButtonComponent/ButtonComponent.tsx": {
+      "id": "(app-client)/./app/components/Misc/ButtonComponent/ButtonComponent.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/ButtonComponent/ButtonComponent.tsx#": {
+      "id": "(app-client)/./app/components/Misc/ButtonComponent/ButtonComponent.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/ButtonComponent/ButtonComponent.tsx#default": {
+      "id": "(app-client)/./app/components/Misc/ButtonComponent/ButtonComponent.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Container/Container.tsx": {
+      "id": "(app-client)/./app/components/Misc/Container/Container.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Container/Container.tsx#": {
+      "id": "(app-client)/./app/components/Misc/Container/Container.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Container/Container.tsx#default": {
+      "id": "(app-client)/./app/components/Misc/Container/Container.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Logo/Logo.tsx": {
+      "id": "(app-client)/./app/components/Misc/Logo/Logo.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Logo/Logo.tsx#": {
+      "id": "(app-client)/./app/components/Misc/Logo/Logo.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Logo/Logo.tsx#default": {
+      "id": "(app-client)/./app/components/Misc/Logo/Logo.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Menuitem/Menuitem.tsx": {
+      "id": "(app-client)/./app/components/Misc/Menuitem/Menuitem.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Menuitem/Menuitem.tsx#": {
+      "id": "(app-client)/./app/components/Misc/Menuitem/Menuitem.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Menuitem/Menuitem.tsx#default": {
+      "id": "(app-client)/./app/components/Misc/Menuitem/Menuitem.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Search/Search.tsx": {
+      "id": "(app-client)/./app/components/Misc/Search/Search.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Search/Search.tsx#": {
+      "id": "(app-client)/./app/components/Misc/Search/Search.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Search/Search.tsx#default": {
+      "id": "(app-client)/./app/components/Misc/Search/Search.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Usermenu/Usermenu.tsx": {
+      "id": "(app-client)/./app/components/Misc/Usermenu/Usermenu.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Usermenu/Usermenu.tsx#": {
+      "id": "(app-client)/./app/components/Misc/Usermenu/Usermenu.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Usermenu/Usermenu.tsx#default": {
+      "id": "(app-client)/./app/components/Misc/Usermenu/Usermenu.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Modals/Modal/Modal.tsx": {
+      "id": "(app-client)/./app/components/Modals/Modal/Modal.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Modals/Modal/Modal.tsx#": {
+      "id": "(app-client)/./app/components/Modals/Modal/Modal.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Modals/Modal/Modal.tsx#default": {
+      "id": "(app-client)/./app/components/Modals/Modal/Modal.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Modals/RegisterModal/RegisterModal.tsx": {
+      "id": "(app-client)/./app/components/Modals/RegisterModal/RegisterModal.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Modals/RegisterModal/RegisterModal.tsx#": {
+      "id": "(app-client)/./app/components/Modals/RegisterModal/RegisterModal.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Modals/RegisterModal/RegisterModal.tsx#default": {
+      "id": "(app-client)/./app/components/Modals/RegisterModal/RegisterModal.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Navbar/navbar.tsx": {
+      "id": "(app-client)/./app/components/Navbar/navbar.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Navbar/navbar.tsx#": {
+      "id": "(app-client)/./app/components/Navbar/navbar.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Navbar/navbar.tsx#default": {
+      "id": "(app-client)/./app/components/Navbar/navbar.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    }
+  }
+}

@@ -6,10 +6,10 @@ import { IconType } from "react-icons";
 interface ButtonComponentProps {
     text: string;
     onClick: (e: React.MouseEvent<HTMLButtonElement>) => void;
-    isDisabled: boolean;
-    outline: boolean;
-    small: boolean;
-    icon: IconType;
+    isDisabled?: boolean;
+    outline?: boolean;
+    small?: boolean;
+    icon?: IconType;
 }
 const ButtonComponent: React.FC<ButtonComponentProps> = ({
     text,

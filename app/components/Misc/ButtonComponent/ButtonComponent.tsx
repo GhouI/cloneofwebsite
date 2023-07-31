@@ -20,12 +20,17 @@ const ButtonComponent: React.FC<ButtonComponentProps> = ({
     icon: Icon
 }) => {
 
-    return (<button disabled={isDisabled} onClick={onClick}className={`relative disabled:opacity-70 disabled:cursor-not-allowed rounded-lg hover:opacity-80 transition w-full ${outline ? 'bg-white' : 'bg-rose-500' } 
-    ${outline ? 'border-black' : 'border-rose-500' } ${outline ? 'text-black' : 'text-white' }  
-    ${small ? 'py-1' : 'py-3' } ${small ? 'text-sm' : 'text-md'} ${small ? 'font-light' : 'font-semibold'}  ${small ? 'border-[1px]' : 'border-2'}> `}> 
-    {Icon && (
-        <Icon size={25} className="absolute left-4 top-3" />
-    )}{text} </button>  );
+    return (<button
+  disabled={isDisabled}
+  onClick={onClick}
+  className={`relative disabled:opacity-70 disabled:cursor-not-allowed rounded-lg hover:opacity-80 transition w-full ${
+    outline ? 'bg-white text-black border-black' : 'bg-rose-500 text-white border-rose-500'
+  } ${small ? 'py-1 text-sm font-light border-[1px]' : 'py-3 text-md font-semibold border-2'}`}
+>
+  {Icon && <Icon size={25} className="absolute left-4 top-3" />}
+  {text}
+</button>
+  );
 }
  
 export default ButtonComponent;

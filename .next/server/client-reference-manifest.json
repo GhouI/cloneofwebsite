@@ -236,6 +236,46 @@
         "async": false
       }
     },
+    "(app-client)/./app/components/Misc/Heading/Heading.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Misc/Heading/Heading.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Misc/Heading/Heading.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Misc/Heading/Heading.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/Misc/Input/Input.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Misc/Input/Input.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Misc/Input/Input.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Misc/Input/Input.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
     "(app-client)/./app/components/Misc/Logo/Logo.tsx": {
       "*": {
         "id": "(sc_client)/./app/components/Misc/Logo/Logo.tsx",
@@ -371,6 +411,26 @@
       },
       "default": {
         "id": "(sc_client)/./app/components/Navbar/navbar.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/providers/ToasterProvider.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/providers/ToasterProvider.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/providers/ToasterProvider.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/providers/ToasterProvider.tsx",
         "name": "default",
         "chunks": [],
         "async": false
@@ -1183,6 +1243,54 @@
       ],
       "async": false
     },
+    "/workspaces/cloneofwebsite/app/components/Misc/Heading/Heading.tsx": {
+      "id": "(app-client)/./app/components/Misc/Heading/Heading.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Heading/Heading.tsx#": {
+      "id": "(app-client)/./app/components/Misc/Heading/Heading.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Heading/Heading.tsx#default": {
+      "id": "(app-client)/./app/components/Misc/Heading/Heading.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Input/Input.tsx": {
+      "id": "(app-client)/./app/components/Misc/Input/Input.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Input/Input.tsx#": {
+      "id": "(app-client)/./app/components/Misc/Input/Input.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Misc/Input/Input.tsx#default": {
+      "id": "(app-client)/./app/components/Misc/Input/Input.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
     "/workspaces/cloneofwebsite/app/components/Misc/Logo/Logo.tsx": {
       "id": "(app-client)/./app/components/Misc/Logo/Logo.tsx",
       "name": "*",
@@ -1345,6 +1453,30 @@
     },
     "/workspaces/cloneofwebsite/app/components/Navbar/navbar.tsx#default": {
       "id": "(app-client)/./app/components/Navbar/navbar.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/providers/ToasterProvider.tsx": {
+      "id": "(app-client)/./app/components/providers/ToasterProvider.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/providers/ToasterProvider.tsx#": {
+      "id": "(app-client)/./app/components/providers/ToasterProvider.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/providers/ToasterProvider.tsx#default": {
+      "id": "(app-client)/./app/components/providers/ToasterProvider.tsx",
       "name": "default",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"

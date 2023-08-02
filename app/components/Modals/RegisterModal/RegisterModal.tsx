@@ -41,7 +41,7 @@ const RegisterModal = () => {
 
                 title="Welcome to Airbnb Clone Website"
                 subtitle='Create an Account below' />
-            <Input id="email" label="Email" register={register} isDisabled={isLoading} errors={errors} required />
+            <Input id= "email" label="Email" register={register} isDisabled={isLoading} errors={errors} required />
             <Input id="name" label="Name" register={register} isDisabled={isLoading} errors={errors} required />
             <Input id="password" label="Password" type="Password" register={register} isDisabled={isLoading} errors={errors} required />
 

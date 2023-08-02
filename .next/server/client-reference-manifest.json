@@ -356,6 +356,26 @@
         "async": false
       }
     },
+    "(app-client)/./app/components/Modals/LoginModal/LoginModal.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Modals/LoginModal/LoginModal.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Modals/LoginModal/LoginModal.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Modals/LoginModal/LoginModal.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
     "(app-client)/./app/components/Modals/Modal/Modal.tsx": {
       "*": {
         "id": "(sc_client)/./app/components/Modals/Modal/Modal.tsx",
@@ -1381,6 +1401,30 @@
     },
     "/workspaces/cloneofwebsite/app/components/Misc/Usermenu/Usermenu.tsx#default": {
       "id": "(app-client)/./app/components/Misc/Usermenu/Usermenu.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Modals/LoginModal/LoginModal.tsx": {
+      "id": "(app-client)/./app/components/Modals/LoginModal/LoginModal.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Modals/LoginModal/LoginModal.tsx#": {
+      "id": "(app-client)/./app/components/Modals/LoginModal/LoginModal.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/workspaces/cloneofwebsite/app/components/Modals/LoginModal/LoginModal.tsx#default": {
+      "id": "(app-client)/./app/components/Modals/LoginModal/LoginModal.tsx",
       "name": "default",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
